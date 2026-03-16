@@ -1,0 +1,3 @@
+[submodule "django_react_ecommerce"]
+	path = django_react_ecommerce
+	url = git@github.com:msjrdev/django_react_ecommerce.git
