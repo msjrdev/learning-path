@@ -7,22 +7,22 @@ Abaixo estão os projetos atuais organizados por tecnologia. Clique no nome do p
 ## 🛠️ Meus Projetos de Estudo
 
 ### 🐍 Python & Django (com UV)
-* **[Sistema de Blog Completo](.)**
+* **[Sistema de Blog Completo](#)**
     * **O que estou aprendendo:** Estruturação de projetos Django com a ferramenta ultra-rápida UV, ORM, autenticação, Views e templates básicos.
     * **Status:** Em progresso 🚧
     <!-- * **Status:** Concluído ✅ -->
 
 ### ⚛️ React & Next.js
-* **[Dashboard Administrativo com React](.)**
+* **[Dashboard Administrativo com React](#)**
     * **O que estou aprendendo:** Componentização, gerenciamento de estado global com Context API e consumo de APIs externas com Axios.
     * **Status:** Planejado 📅
 
-* **[Plataforma de E-commerce com Next.js](.)**
+* **[Plataforma de E-commerce com Next.js](#)**
     * **O que estou aprendendo:** Server-Side Rendering (SSR), Static Site Generation (SSG), rotas dinâmicas e otimização de SEO.
     * **Status:** Planejado 📅
 
 ### 🐳 DevOps & Containers
-* **[Infraestrutura com Docker Compose](.)**
+* **[Infraestrutura com Docker Compose](#)**
     * **O que estou aprendendo:** Criação de múltiplos containers (Django + Postgres + Redis) usando Docker Compose e gerenciamento de volumes.
     * **Status:** Planejado 📅
 
