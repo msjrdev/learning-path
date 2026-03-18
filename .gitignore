@@ -1,0 +1,12 @@
+# Python / UV
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node / React / Next.js
+node_modules/
+.next/
+dist/
+
+# Env
+.env
