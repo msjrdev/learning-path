@@ -7,7 +7,7 @@ Abaixo estão os projetos atuais organizados por tecnologia. Clique no nome do p
 ## 🛠️ Meus Projetos de Estudo
 
 ### 🐍 Python & Django (com UV)
-* **[Sistema de Blog Completo](#)**
+* **[Sistema de Blog Completo](./django-blog)**
     * **O que estou aprendendo:** Estruturação de projetos Django com a ferramenta ultra-rápida UV, ORM, autenticação, Views e templates básicos.
     * **Status:** Em progresso 🚧
     <!-- * **Status:** Concluído ✅ -->
