@@ -12,6 +12,11 @@ Abaixo estão os projetos atuais organizados por tecnologia. Clique no nome do p
     * **Status:** Em progresso 🚧
     <!-- * **Status:** Concluído ✅ -->
 
+### ⚛️ React 19 
+* **[Aprendendo React 19](./react19-study/)**
+    * **O que estou aprendendo:** Projeto focado no aprendizado das novas features do **React 19**, utilizando **Vite** para um ambiente de desenvolvimento ultra-rápido.
+    * **Status:** Em progresso 🚧
+
 ### ⚛️ React & Next.js
 * **[Dashboard Administrativo com React](#)**
     * **O que estou aprendendo:** Componentização, gerenciamento de estado global com Context API e consumo de APIs externas com Axios.
